@@ -1,0 +1,61 @@
+@charset "UTF-8";
+body {
+	background-color: white;
+	color: purple;
+}
+
+h2, p {
+	text-align: center;
+}
+
+#logo {
+	width: 200px;
+	height: 40px;
+}
+
+.form {
+	background-color: #CCCCCC;
+	border-radius: 6px;
+	width: 80%;
+	padding-top: 5px;
+	margin-left: 10%;
+}
+
+.login-form{
+	background-color: #CCCCCC;
+	border-radius: 6px;
+	width: 80%;
+	height: 250px;
+	padding-top: 5px;
+	margin-left: 10%;
+}
+
+.form-title {
+	padding-left: 30px;
+	font-weight: bold;
+}
+
+.form-label {
+	color: black;
+}
+
+.form-field {
+	color: black;
+}
+
+.labels-container {
+	float:left;
+	padding-left: 30%;
+	margin-top: 10px;
+}
+
+.fields-container {
+	float:left;
+	padding-left: 45px;
+}
+
+.buttons-container {
+	float:right;
+	padding-left: 45px;
+	padding-top: 80px;
+}
