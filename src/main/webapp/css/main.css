@@ -14,7 +14,7 @@ h2, p {
 }
 
 .form {
-	background-color: #FFCCCC;
+	background-color: #CCCCCC;
 	border-radius: 6px;
 	width: 80%;
 	padding-top: 5px;
@@ -22,7 +22,7 @@ h2, p {
 }
 
 .login-form{
-	background-color: #CCCCCC;
+	background-color: #FFCCCC;
 	border-radius: 6px;
 	width: 80%;
 	height: 250px;
