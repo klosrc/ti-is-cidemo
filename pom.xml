@@ -31,7 +31,7 @@
   	<repository>
   		<id>telus-resources</id>
   		<name>telus-resources</name>
-  		<url>http://localhost:8081/repository/telus-resources/</url>
+  		<url>http://nexus3:8081/repository/telus-resources/</url>
   	</repository>
   </repositories>
   <build>
